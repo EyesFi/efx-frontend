@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'SemiBoldItalic';
+    src: url('Prompt-SemiBoldItalic.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MediumItalic';
+    src: url('Prompt-MediumItalic.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PromptRegular';
+    src: url('Prompt-Regular.ttf');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FontMedium';
+    src: url('Prompt-Medium.ttf');
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FontItalic';
+    src: url('Prompt-Italic.ttf');
+    font-style: normal;
+}

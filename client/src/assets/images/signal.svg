@@ -1,0 +1,32 @@
+<svg id="svg45" version="1.1" fill="none" viewBox="0 0 190 190" height="190" width="190" xmlns="http://www.w3.org/2000/svg">
+  <metadata id="metadata49">
+        image/svg+xml
+  </metadata>
+  <g id="g26" filter="url(#filter0_d)">
+    <g transform="translate(-4.0615,9.769)" id="g886">
+      <path id="path2" fill="#2d25ff" d="M 99.1933,23 122.81,36.6534 99.1933,50.3067 75.524,36.6534 Z" clip-rule="evenodd" fill-rule="evenodd"></path>
+      <path id="path4" fill="#2d25ff" d="M 72.941,67.703 V 40.3962 l 23.6693,13.6534 v 27.254 z" clip-rule="evenodd" fill-rule="evenodd"></path>
+      <path id="path6" fill="#2d25ff" d="M 125.34,67.7557 125.393,40.449 101.724,54.1023 V 81.4091 Z" clip-rule="evenodd" fill-rule="evenodd"></path>
+      <path id="path8" fill="#2d25ff" d="M 70.1997,71.0239 93.8691,84.6773 70.1997,98.2779 46.5831,84.6773 Z" clip-rule="evenodd" fill-rule="evenodd"></path>
+      <path id="path10" fill-opacity="0.98" fill="#2d25ff" d="M 44,115.674 V 88.3674 l 23.6166,13.6536 0.0527,27.307 z" clip-rule="evenodd" fill-rule="evenodd"></path>
+      <path id="path12" fill="#2d25ff" d="M 96.3996,115.78 V 88.4729 L 72.7829,102.126 v 27.307 z" clip-rule="evenodd" fill-rule="evenodd"></path>
+      <path id="path14" fill="#2d25ff" d="M 127.765,71.762 151.382,85.4153 127.765,99.0687 104.096,85.4153 Z" clip-rule="evenodd" fill-rule="evenodd"></path>
+      <path id="path16" fill="#2d25ff" d="M 101.513,116.465 V 89.1582 l 23.669,13.6538 v 27.306 z" clip-rule="evenodd" fill-rule="evenodd"></path>
+      <path id="path18" fill="#2d25ff" d="M 153.965,116.518 V 89.2109 l -23.669,13.6531 v 27.307 z" clip-rule="evenodd" fill-rule="evenodd"></path>
+      <path id="path20" fill="#2d25ff" d="M 130.507,68.0719 V 40.7651 l 23.616,13.6534 v 27.3067 z" clip-rule="evenodd" fill-rule="evenodd"></path>
+      <path id="path22" fill="#2d25ff" d="M 68.1966,68.1248 V 40.8181 L 44.5799,54.4715 v 27.3067 z" clip-rule="evenodd" fill-rule="evenodd"></path>
+      <path id="path24" fill="#2d25ff" d="M 99.1933,120.155 122.81,133.808 99.1933,147.462 75.524,133.808 Z" clip-rule="evenodd" fill-rule="evenodd"></path>
+    </g>
+  </g>
+  <defs id="defs43">
+    <filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="212.46201" width="198.123" y="0" x="0" id="filter0_d">
+      <feFlood id="feFlood28" result="BackgroundImageFix" flood-opacity="0"></feFlood>
+      <feColorMatrix id="feColorMatrix30" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0" type="matrix" in="SourceAlpha"></feColorMatrix>
+      <feOffset id="feOffset32" dy="21"></feOffset>
+      <feGaussianBlur id="feGaussianBlur34" stdDeviation="22"></feGaussianBlur>
+      <feColorMatrix id="feColorMatrix36" values="0 0 0 0 0.913725 0 0 0 0 0.0352941 0 0 0 0 0.760784 0 0 0 0.32 0" type="matrix"></feColorMatrix>
+      <feBlend id="feBlend38" result="effect1_dropShadow" in2="BackgroundImageFix" mode="normal"></feBlend>
+      <feBlend id="feBlend40" result="shape" in2="effect1_dropShadow" in="SourceGraphic" mode="normal"></feBlend>
+    </filter>
+  </defs>
+</svg>
